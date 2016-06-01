@@ -11,6 +11,11 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             System.Console.WriteLine("hello world");
+
         }
+    }
+    class C
+    {
+        int x;
     }
 }
